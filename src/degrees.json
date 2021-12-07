@@ -1,7 +1,7 @@
 {
-    "List_of_degrees": [
+    "data": [
         {
-            "degree": {
+            "data": {
                 "School": "University Of Massachusetts Lowell",
                 "Major": "Applied Computational Mathematics",
                 "Degree Type": "Bachelor of Science (BS)",
@@ -10,7 +10,7 @@
             }
         },
         {
-            "degree":{
+            "data":{
                 "School": "Boston University",
                 "Major": "Computer Information Systems",
                 "Degree Type": "Master of Science (MS)",
